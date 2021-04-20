@@ -9,3 +9,5 @@ http://adn.biol.umontreal.ca/~numericalecology/data/scotch.html
 
 From the original dataset, only the variables for NOSE, BODY, PAL and FIN were used for modeling. 
 COLOR was left out of the model because in my (limited) experience, the colour of a scotch does not affect the tasting experience. 
+
+The cleaned up dataset can be found in scotch_data.xlsx
